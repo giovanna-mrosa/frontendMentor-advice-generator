@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repository](https://github.com/giovanna-mrosa/frontendMentor-advice-generator)
+- Live Site URL: [Demo](https://frontend-mentor-advice-generator-ten.vercel.app/)
 
 ## My process
 
@@ -35,4 +35,5 @@ Users should be able to:
 - Portfolio - [Giovanna Rosa](https://giovanna-mrosa.github.io/portifolio/)
 - LinkedIn - [Giovanna Marçaro Rosa](https://www.linkedin.com/in/giovannamarcarorosa/)
 - GitHub - [giovanna-mrosa](https://github.com/giovanna-mrosa)
+
 # frontendMentor-advice-generator
